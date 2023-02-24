@@ -79,9 +79,18 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
-|RF-001| Permitir que o usuário cadastre tarefas | ALTA | 
-|RF-002| Emitir um relatório de tarefas no mês   | MÉDIA |
-
+|RF-01| Efetuar login | ALTA | 
+|RF-02| Registrar entrada/saída | ALTA |
+|RF-03| Mostrar na tela o horário previsto de entrada | MEDIA | 
+|RF-04| Mostrar o horário que foi registrada a entrada | ALTA | 
+|RF-05| Mostrar o tempo que se passou desde a entrada no sistema | ALTA | 
+|RF-06| Mostrar o tempo restante de trabalho e o horário previsto de saída | MEDIA | 
+|RF-07| Histórico dos dias anteriores | BAIXA | 
+|RF-08| Alerta caso entrada saída/fora do horário previsto | MEDIA | 
+|RF-09| Alerta quando faltar 05 min para saída | MEDIA | 
+|RF-10| Saldo do banco de horas | BAIXA | 
+|RF-11| Configurar horário de entrada e duração da jornada de trabalho | ALTA | 
+ 
 ### Requisitos não Funcionais
 
 |ID     | Descrição do Requisito  |Prioridade |
